@@ -1,3 +1,3 @@
 # practicing git branching and merging
 
-give me the shark
+BRANCH AND MERGING
